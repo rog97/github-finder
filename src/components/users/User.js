@@ -23,7 +23,6 @@ export class User extends React.Component {
       name,
       company,
       avatar_url,
-      url,
       location,
       bio,
       blog,
